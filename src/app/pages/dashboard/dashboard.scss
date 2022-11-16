@@ -1,0 +1,22 @@
+.main-div{
+    flex-grow: 1;
+    
+    .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12{
+        overflow-y: auto;
+        overflow-x: auto;
+        .MuiPaper-root{
+            height: 400px;
+
+        }
+    }
+    .MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-6{
+        overflow-y: auto;
+        overflow-x: auto;
+        .MuiPaper-root{
+            height: 400px;
+
+        }
+    }
+    
+    
+}
